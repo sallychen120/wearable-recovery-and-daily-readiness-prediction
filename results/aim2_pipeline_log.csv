@@ -1,0 +1,7 @@
+"script","status","seconds","message"
+"R/13_download_training.R","Completed",0.12,""
+"R/14_prepare_training_sessions.R","Completed",0.34,""
+"R/15_training_daily_coverage.R","Completed",0.1,""
+"R/16_select_training_events.R","Completed",0.08,""
+"R/17_plot_training_trajectories.R","Completed",1.33,""
+"R/18_check_trajectory_sensitivity.R","Completed",0.88,""
