@@ -1,0 +1,3 @@
+model,lambda,prediction_targets,participants,mae,rmse,macro_mae,grid_boundary
+B_absolute,1,346,14,0.989695246431139,1.281925338084983,0.95048345270011525,FALSE
+C_personal,1,346,14,0.9860550542085763,1.2766210664832587,0.9468543454246139,FALSE

@@ -1,0 +1,31 @@
+sample,metric,metric_label,relative_day,mean_change,participants,events
+All complete,readiness,Readiness (points),-1,0,10,73
+All complete,readiness,Readiness (points),0,0.563108251397725,10,73
+All complete,readiness,Readiness (points),1,-0.44635723925197607,10,73
+All complete,readiness,Readiness (points),2,-0.29362251783304416,10,73
+All complete,readiness,Readiness (points),3,-0.15925583188741083,10,73
+All complete,resting_hr,Resting heart rate (bpm),-1,0,10,73
+All complete,resting_hr,Resting heart rate (bpm),0,0.19128517086528413,10,73
+All complete,resting_hr,Resting heart rate (bpm),1,0.57898439956718,10,73
+All complete,resting_hr,Resting heart rate (bpm),2,0.4104259881987975,10,73
+All complete,resting_hr,Resting heart rate (bpm),3,0.15647635034772964,10,73
+All complete,sleep_hours,Sleep duration (hours),-1,0,10,73
+All complete,sleep_hours,Sleep duration (hours),0,0.353392302872566,10,73
+All complete,sleep_hours,Sleep duration (hours),1,0.24906978985926354,10,73
+All complete,sleep_hours,Sleep duration (hours),2,0.3108046719362508,10,73
+All complete,sleep_hours,Sleep duration (hours),3,0.189795908039329,10,73
+Nonoverlapping,readiness,Readiness (points),-1,0,8,22
+Nonoverlapping,readiness,Readiness (points),0,0.7053571428571429,8,22
+Nonoverlapping,readiness,Readiness (points),1,-0.7678571428571428,8,22
+Nonoverlapping,readiness,Readiness (points),2,0.04910714285714286,8,22
+Nonoverlapping,readiness,Readiness (points),3,-0.3080357142857143,8,22
+Nonoverlapping,resting_hr,Resting heart rate (bpm),-1,0,8,22
+Nonoverlapping,resting_hr,Resting heart rate (bpm),0,-0.10416549444198608,8,22
+Nonoverlapping,resting_hr,Resting heart rate (bpm),1,0.7349456208092826,8,22
+Nonoverlapping,resting_hr,Resting heart rate (bpm),2,0.6039413128580365,8,22
+Nonoverlapping,resting_hr,Resting heart rate (bpm),3,0.37687159861837116,8,22
+Nonoverlapping,sleep_hours,Sleep duration (hours),-1,0,8,22
+Nonoverlapping,sleep_hours,Sleep duration (hours),0,-0.2643601190476191,8,22
+Nonoverlapping,sleep_hours,Sleep duration (hours),1,0.42098214285714286,8,22
+Nonoverlapping,sleep_hours,Sleep duration (hours),2,0.43311011904761915,8,22
+Nonoverlapping,sleep_hours,Sleep duration (hours),3,0.21138392857142874,8,22

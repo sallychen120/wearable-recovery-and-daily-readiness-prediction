@@ -1,0 +1,13 @@
+model,feature,training_median,training_missing,validation_missing
+B_absolute,last_readiness,5,0,0
+B_absolute,readiness_past_mean,5.1,0,0
+B_absolute,days_since_last_readiness,1,0,0
+B_absolute,hr_lag2,57.88006258010864,260,38
+B_absolute,sleep_lag2,6.75,87,30
+C_personal,last_readiness,5,0,0
+C_personal,readiness_past_mean,5.1,0,0
+C_personal,days_since_last_readiness,1,0,0
+C_personal,hr_lag2,57.88006258010864,260,38
+C_personal,sleep_lag2,6.75,87,30
+C_personal,hr_deviation_lag2,-0.01983591488429326,296,41
+C_personal,sleep_deviation_lag2,-0.03472222222222232,135,30

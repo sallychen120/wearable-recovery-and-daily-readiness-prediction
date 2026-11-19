@@ -1,0 +1,15 @@
+participant_id,wellness_records,wellness_before_06_utc,sleep_records,sleep_ending_at_or_after_12_source_clock,sleep_date_mismatch_records
+p01,138,7,150,0,0
+p02,99,0,142,0,0
+p03,78,5,78,2,0
+p04,144,17,144,2,0
+p05,134,40,118,1,0
+p06,147,13,150,1,0
+p07,132,7,142,1,0
+p08,103,2,133,7,0
+p09,102,1,136,46,0
+p10,95,1,99,3,0
+p11,107,17,119,0,0
+p14,124,8,121,3,0
+p15,93,10,143,0,0
+p16,82,0,147,115,0
