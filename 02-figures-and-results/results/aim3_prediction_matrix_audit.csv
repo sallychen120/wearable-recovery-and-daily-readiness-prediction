@@ -1,3 +1,0 @@
-model,training_rows,validation_rows,predictor_columns,constant_training_columns,training_missing_after_processing,validation_missing_after_processing
-B_absolute,968,346,31,3,0,0
-C_personal,968,346,35,3,0,0

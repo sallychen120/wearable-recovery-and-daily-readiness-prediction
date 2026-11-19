@@ -1,4 +1,0 @@
-split,participants,prediction_targets,both_absolute_wearables_available,both_personal_deviations_available
-train,14,968,676,639
-validation,14,346,288,285
-test,13,250,225,216
