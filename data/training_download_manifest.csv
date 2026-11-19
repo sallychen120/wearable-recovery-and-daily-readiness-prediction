@@ -1,0 +1,15 @@
+participant_id,source_url,expected_bytes,bytes,records,md5,status,error,checked_at_utc
+p01,https://osf.io/download/2zmt4/,1993,1993,34,e6b9ab618d854392320f1822878bc988,Existing,,2026-11-08 13:37:33 UTC
+p02,https://osf.io/download/yhr2d/,5884,5884,97,94b82e87d54dc5c4b141a02865931334,Existing,,2026-11-08 13:37:33 UTC
+p03,https://osf.io/download/xy827/,180,180,2,275a57913d84b9bc783ca0a1651b0cc8,Existing,,2026-11-08 13:37:33 UTC
+p04,https://osf.io/download/xjefg/,5125,5125,85,7bfff0fe62abaf8838c057d44bc306d2,Existing,,2026-11-08 13:37:33 UTC
+p05,https://osf.io/download/drvhb/,614,614,9,a1c9019f10d793088fcb37a6262429b5,Existing,,2026-11-08 13:37:33 UTC
+p06,https://osf.io/download/g8cen/,2780,2780,46,e794babda189169cb9b5214ddec2ee89,Existing,,2026-11-08 13:37:33 UTC
+p07,https://osf.io/download/uyd2s/,6603,6603,110,99c1f860f13c6694591ca87b236d137d,Existing,,2026-11-08 13:37:33 UTC
+p08,https://osf.io/download/6qcfv/,6909,6909,113,96d508c46c4b9ab8caf44a58adc6f98b,Existing,,2026-11-08 13:37:33 UTC
+p09,https://osf.io/download/h7e34/,242,242,3,014bb06b4dfe3602cf047f9fe6c0b35b,Existing,,2026-11-08 13:37:33 UTC
+p10,https://osf.io/download/6z4tn/,1854,1854,27,44b8e6f2cca757a15c50a480d0599c29,Existing,,2026-11-08 13:37:33 UTC
+p11,https://osf.io/download/xv5sj/,2018,2018,30,5b34f6f5d7509a267db5550daa3f4e06,Existing,,2026-11-08 13:37:33 UTC
+p14,https://osf.io/download/y2hm7/,3735,3735,62,4d9d2d6ef09eb94a31bb291009526b27,Existing,,2026-11-08 13:37:33 UTC
+p15,https://osf.io/download/p7gm3/,6407,6407,104,8bbedd8413a30641aa277f378f0da68e,Existing,,2026-11-08 13:37:33 UTC
+p16,https://osf.io/download/de9fu/,414,414,11,eec2f1ae36c407381f57cb8c1d3b254c,Existing,,2026-11-08 13:37:33 UTC
