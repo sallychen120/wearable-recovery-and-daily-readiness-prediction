@@ -1,3 +1,0 @@
-model,lambda,fitting_data,parameter_selection_data,preprocessing_data,history_updates,primary_metric,reference_baseline
-B_absolute,1,Original training period,Validation period,Original training period,Earlier observations only,Pooled MAE,baseline_past_mean
-C_personal,1,Original training period,Validation period,Original training period,Earlier observations only,Pooled MAE,baseline_past_mean
