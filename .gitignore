@@ -1,0 +1,24 @@
+# R and RStudio session files
+.Rproj.user/
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+Rplots.pdf
+*.rds
+*.RDS
+
+# Downloaded participant data and generated analysis datasets
+/data/raw/
+/data/intermediate/
+/data/processed/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local environment settings and credentials
+.Renviron
+.env
+.env.*
+!.env.example
