@@ -1,0 +1,15 @@
+participant_id,complete_days,days_with_multiple_reports,days_with_changed_readiness
+p01,137,0,0
+p02,56,0,0
+p03,45,1,0
+p04,33,1,0
+p05,61,1,0
+p06,146,0,0
+p07,127,1,0
+p08,94,1,1
+p09,94,0,0
+p10,80,1,1
+p11,69,0,0
+p14,103,0,0
+p15,93,2,1
+p16,81,0,0

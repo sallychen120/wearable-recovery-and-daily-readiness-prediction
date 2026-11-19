@@ -1,0 +1,15 @@
+participant_id,records_after_deduplication,missing_end_times,missing_rpe,missing_duration,rpe_outside_review_range,invalid_duration,usable_sessions,raw_records,exact_duplicates_removed
+p01,34,0,0,0,0,0,34,34,0
+p02,97,0,0,0,0,0,97,97,0
+p03,2,0,0,0,0,0,2,2,0
+p04,85,0,0,0,0,0,85,85,0
+p05,9,0,0,0,0,0,9,9,0
+p06,46,0,0,0,0,0,46,46,0
+p07,110,0,0,0,0,0,110,110,0
+p08,113,0,0,0,0,0,113,113,0
+p09,3,0,0,0,0,0,3,3,0
+p10,27,0,0,0,0,0,27,27,0
+p11,30,0,0,0,0,0,30,30,0
+p14,62,0,0,0,0,0,62,62,0
+p15,104,0,0,0,0,0,104,104,0
+p16,11,0,11,11,0,0,0,11,0

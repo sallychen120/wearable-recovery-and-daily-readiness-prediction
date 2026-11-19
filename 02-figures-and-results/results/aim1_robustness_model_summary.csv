@@ -1,0 +1,5 @@
+model,observations,participants,ar1_rho
+iid_all,1219,14,NA
+ar1_all,1219,14,0.29106290161925774
+iid_without_p05,1158,13,NA
+ar1_without_p05,1158,13,0.2519748654420593
